@@ -1,0 +1,43 @@
+.third-first{
+    display:flex;
+    margin-left:40px;
+}
+.third-second{
+    display:flex;
+    gap:500px;
+    margin-top:20px;
+}
+.prep{
+    display:flex;
+    text-align:center;
+    gap:50px;
+    margin-left:79px;
+}
+.last{
+    display:flex;
+    gap:20px;
+    line-height: 0;
+    font-size: 12px;
+    font-weight:bold;
+    margin-top:20px;
+}
+.button-third{
+    width:150px;
+}
+.third-fourth{
+    margin-top:50px;
+    display:flex;
+    gap:700px;
+}
+.first-buttons{
+    display:flex;
+    text-align:center;
+    gap:53px;
+    margin-left:79px;
+}
+.second-buttons{
+    display:flex;
+    text-align:center;
+    gap:53px;
+    margin-left:-100px;
+}
